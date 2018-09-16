@@ -1,4 +1,4 @@
-This is a project to implement sorting and seraching functionality, using ReactJS. The application sort data based on Price in ascending or descending order, filter record based on Product size (XS, S, M, L, XL), based on flag value for products available on Sale or are exclusive.
+This is a project to implement sorting and seraching functionality, using ReactJS. The application sort data based on Price in ascending or descending order, filter record based on Product size (XS, S, M, L, XL), based on flag value for products available on sale or are exclusive.
 
 It is fully responsive.
 
